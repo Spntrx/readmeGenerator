@@ -4,26 +4,26 @@
   This app will generate a readme file.
 
   
-  #Installation
+  # Installation
 
   Install required packages, then run the index.js file. 
 
-  #Usage
+  # Usage
   This is used for all purposes. 
 
-  #License 
+  # License 
 
   ![](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-  #Contributors
+  # Contributors
 
   Avi Balsingh
 
-  #Tests
+  # Tests
 
   None
 
-  #GitHub Info
+  # GitHub Info
 
   lemonlimewine@gmail.com
 
