@@ -16,17 +16,17 @@ function generateMarkdown(data) {
   # ${data.title} \n
   ${data.description}\n
   
-  #Installation\n
+  # Installation\n
   ${data.installation} \n
-  #Usage
+  # Usage
   ${data.usage} \n
-  #License \n
+  # License \n
   ![](${badge})\n
-  #Contributors\n
+  # Contributors\n
   ${data.contributors}\n
-  #Tests\n
+  # Tests\n
   ${data.tests}\n
-  #GitHub Info\n
+  # GitHub Info\n
   ${data.githubemail}\n
   ${data.githubusername}\n
 `)
